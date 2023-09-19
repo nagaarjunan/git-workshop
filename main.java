@@ -5,6 +5,7 @@ class main{
         System.out.println("hello git");
         System.out.println("hi arjun");
         System.out.println("update the code");
-        System.out.println("test");
+        System.out.println("testy");
+        System.out.println("it's arjun");
     }
 }
