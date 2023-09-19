@@ -7,5 +7,6 @@ class main{
         System.out.println("update the code");
         System.out.println("testy");
         System.out.println("it's arjun");
+        System.out.println("hello all");
     }
 }
